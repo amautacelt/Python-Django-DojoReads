@@ -1,0 +1,6 @@
+.allBooks {
+    border: 2px solid black;
+    padding: 20px;
+    height: 300px;
+    overflow-y: scroll;
+}
